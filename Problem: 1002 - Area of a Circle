@@ -6,19 +6,3 @@ A = pi*R**2
 A = "{:.4f}".format(A)
 
 print(f'A={A}')
-
-"""
-Answer:
-Accepted
-Language:
-Python 3.11 (Python 3.11.4) [+1s] {beta}
-Runtime:
-0.062s
-File size:
-105 Bytes
-Memory:
--
-Submission:
-9/24/24, 3:52:11 PM
-SUBMISSION # 41668600
-"""
